@@ -18,7 +18,8 @@
 - con su fecha
 ### CAMBIOS DEL USUARIO🔄📚
 - Los cambios de libros con otros usuarios
-
+- Historial de sus intercambios
+- Proteccion de perdida
 
 --- 
 ## 📁CREAR USUARIOS➕
