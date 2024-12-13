@@ -12,5 +12,5 @@
 ---
 
 ## 📝 Sobre Mí
-ayuda por favor
+ayuda por favor🫠
 ---
