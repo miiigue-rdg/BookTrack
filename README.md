@@ -52,4 +52,9 @@
 - Deberas rellenar un formulario y enviarlo para que el creador decida si aceptarle o no.
 ### CREAR CLUB➕👨‍👨‍👧‍👧
 - Aqui veras otro formulario que deberas rellenar si quieres crear un nuevo club.
+### METODOS DE PAGO💲
+- Encontraras un formulario que debes rellenar para pagar la cuota del club.
   
+*(no todos los clubs son de pago)*
+---
+# ESPERO TU PARTICIPACION!🎉🤗
