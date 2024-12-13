@@ -7,7 +7,7 @@
 
 ---
 
-## 📝 **Reseñas**
+## ⭐ **Reseñas**
 
 1. **"Un thriller fascinante que mezcla ciencia y ficción con precisión quirúrgica. La tensión y el suspenso son constantes."** — *The New York Times*
 
