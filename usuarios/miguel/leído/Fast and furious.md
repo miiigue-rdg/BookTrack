@@ -10,6 +10,6 @@
 
 ## ⭐ Reseñas
 
-- ⭐⭐⭐⭐⭐ *"Adrenalina pura. Las escenas de acción son impresionantes."* — **Braulio**
-- ⭐⭐⭐⭐ *"Una franquicia que redefine el género de acción y autos."* — **Messi**
-- ⭐⭐⭐ *"Entretenida, aunque la trama a veces desafía la lógica."* — **Pablo**
+- *"Adrenalina pura. Las escenas de acción son impresionantes."* — **Braulio**
+- *"Una franquicia que redefine el género de acción y autos."* — **Messi**
+- *"Entretenida, aunque la trama a veces desafía la lógica."* — **Pablo**
