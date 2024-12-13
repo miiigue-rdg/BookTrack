@@ -7,7 +7,7 @@
 
 ---
 
-## 📝 **Reseñas**
+## ⭐ **Reseñas**
 
 1. **"Una obra maestra de la literatura estadounidense que captura la decadencia de la década de 1920 con una prosa brillante y profunda."** — *The New York Times*
 
