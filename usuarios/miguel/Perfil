@@ -2,17 +2,15 @@
 
 ## 🧑‍💼 Información Básica
 
-- **Nombre Completo:**  
-- **Edad:**  
-- **Ubicación:**  
-- **Club:**  
-- **Instagram:** [@TuUsuario](#)  
-- **Correo Electrónico:** [tucorreo@ejemplo.com](mailto:tucorreo@ejemplo.com)
+- **Nombre Completo:** Miguel Rodriguez Redondo 
+- **Edad:** 19 
+- **Ubicación:** Sevilla,Espana 
+- **Club:** No pertenece a ningun club 
+- **Instagram:** [@miigue_rdg](#)  
+- **Correo Electrónico:** [miirore40@gmail.com](mailto:miirore40@gmail.com)
 
 ---
 
 ## 📝 Sobre Mí
-
-Escribe una breve descripción sobre ti, tus intereses o lo que te define.
-
+ayuda por favor
 ---
