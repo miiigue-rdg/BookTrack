@@ -4,19 +4,19 @@
 ## 📁USUARIOS👤
 **Aqui puedes ver los usuarios que usan la plataforma**
 ---
-**Al seleccionar un usuariopuedes ver:**
-### LIBROS 📚
+**Al seleccionar un usuario puedes ver:**
+### LIBROS DEL USUARIO 📚
 - Que libro se esta leyendo el usuario con su info
 - Que libros se ha leido con su info
 - Que libros tiene pendiente por leerse con su info
-### PERFIL 📋
+### PERFIL DEL USUARIO📋
 - Informacion personal
 - Gustos
 - Club al que pertenece
-### DEVOLUCIONES ↔️📚
+### DEVOLUCIONES DEL USUARIO↔️📚
 - Las devoluciones que ha hecho
 - con su fecha
-### CAMBIOS 🔄📚
+### CAMBIOS DEL USUARIO🔄📚
 - Los cambios de libros con otros usuarios
 
 
@@ -29,8 +29,6 @@
 ---
 ## 📁CLUBES DE LECTURA👨‍👨‍👧‍👧📚
 **Podras ver:**
-- Que clubes hay🤔
-- Crear un club
 
 ### CLUBES👨‍👨‍👧‍👧📚
 - *Clubes disponibles*
