@@ -11,12 +11,12 @@
 
 ### 📝 Reseñas
 
-- ⭐⭐⭐⭐⭐ *"Una historia emocionante y trepidante. No pude dejar de leer hasta el final."* — **Goodreads**
+- *"Una historia emocionante y trepidante. No pude dejar de leer hasta el final."* — **Goodreads**
 
-- ⭐⭐⭐⭐ *"Un mundo distópico fascinante y una protagonista valiente. Perfecto para los fans de Los Juegos del Hambre."* — **The New York Times**
+- *"Un mundo distópico fascinante y una protagonista valiente. Perfecto para los fans de Los Juegos del Hambre."* — **The New York Times**
 
-- ⭐⭐⭐ *"Aunque tiene algunos clichés, la trama es adictiva y llena de acción."* — **Kirkus Reviews**
+- *"Aunque tiene algunos clichés, la trama es adictiva y llena de acción."* — **Kirkus Reviews**
 
-- ⭐⭐⭐⭐⭐ *"La novela plantea temas profundos sobre identidad y valentía. Una lectura obligatoria para los amantes de la ciencia ficción juvenil."* — **Booklist**
+- *"La novela plantea temas profundos sobre identidad y valentía. Una lectura obligatoria para los amantes de la ciencia ficción juvenil."* — **Booklist**
 
 ---
